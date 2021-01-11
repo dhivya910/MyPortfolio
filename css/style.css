@@ -539,6 +539,10 @@ section {
   margin-bottom: 30px;
 }
 
+.portfolio .section-title {
+  color: #0f0f0f;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 25px auto;
